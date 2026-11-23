@@ -1,0 +1,8 @@
+{
+  "name": "InformaTrack — Monitoring & Rangkuman Informatika",
+  "description": "Sistem monitoring pembelajaran, rangkuman materi interaktif, dashboard analitik, dan pelaporan otomatis untuk Dampak Sosial Informatika, Computer System, Keamanan Data & Etika Digital, serta Vibe Coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
